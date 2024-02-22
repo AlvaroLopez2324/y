@@ -1,10 +1,10 @@
 [
-    { "nombre": "Ana", "edad": 19, "sexo": "F" },
-    { "nombre": "Pedro", "edad": 32, "sexo": "M" },
-    { "nombre": "Pablo", "edad": 27, "sexo": "M" },
-    { "nombre": "Laura", "edad": 22, "sexo": "F" },
-    { "nombre": "Javier", "edad": 17, "sexo": "M" },
-    { "nombre": "Sandra", "edad": 28, "sexo": "F" },
-    { "nombre": "Mario", "edad": 24, "sexo": "M" },
+    { "nombre": "Alvaro", "edad": 19, "sexo": "M" },
+    { "nombre": "Jose", "edad": 32, "sexo": "M" },
+    { "nombre": "Fran", "edad": 27, "sexo": "M" },
+    { "nombre": "Calvo", "edad": 22, "sexo": "M" },
+    { "nombre": "Gabiloko", "edad": 17, "sexo": "M" },
+    { "nombre": "Gordito", "edad": 28, "sexo": "M" },
+    { "nombre": "Raul", "edad": 24, "sexo": "M" },
     { "nombre": "Julia", "edad": 41, "sexo": "F"}
 ]
