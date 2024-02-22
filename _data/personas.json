@@ -1,5 +1,5 @@
 [
-    { "nombre": "Alvaro", "edad": 19, "sexo": "F" },
+    { "nombre": "Alvaro", "edad": 19, "sexo": "M" },
     { "nombre": "Jose", "edad": 32, "sexo": "M" },
     { "nombre": "Fran", "edad": 27, "sexo": "M" },
     { "nombre": "Calvo", "edad": 22, "sexo": "F" },
