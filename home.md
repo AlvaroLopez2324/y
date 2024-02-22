@@ -24,37 +24,25 @@ permalink: /
 You can use the [editor on GitHub](https://github.com/oscarnovillo/oscarnovillo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 
-### Markdown
+# Minecraft
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Minecraft es un juego de construcción y aventura desarrollado por Mojang Studios. En este juego, los jugadores exploran un mundo abierto generado proceduralmente, lleno de bloques que representan diferentes materiales y recursos.
 
-```markdown
-Syntax highlighted code block
+## Jugabilidad
 
-# Header 1
-## Header 2
-### Header 3
+Los jugadores pueden recolectar recursos naturales, como madera, piedra y minerales, para construir estructuras y herramientas. También pueden cultivar alimentos, criar animales y combatir contra criaturas hostiles.
 
-- Bulleted
-- List
+### Modos de juego
 
-1. Numbered
-2. List
+- **Supervivencia**: Los jugadores deben sobrevivir en el mundo, gestionando recursos y enfrentándose a peligros como monstruos y condiciones climáticas adversas.
+- **Creativo**: Los jugadores tienen acceso ilimitado a recursos y pueden construir libremente sin preocuparse por la salud o el hambre.
+- **Aventura**: Los jugadores experimentan mapas personalizados con objetivos específicos y reglas predefinidas.
+- **Espectador**: Los jugadores pueden moverse libremente por el mundo sin interactuar con él, ideal para explorar construcciones elaboradas o eventos en vivo.
 
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image]({{ site.url }}/test/index.html)
+## Comunidad
 
-[Link](url) and ![Image]({{ site.url }}/assets/img/logo-Jekyll.png)
-```
+Minecraft cuenta con una gran comunidad de jugadores que comparten creaciones, mods y recursos en línea. Además, el juego ha inspirado una amplia variedad de contenido, desde videos en YouTube hasta convenciones y competiciones.
 
-![Image](/assets/img/logo-jekyll.png)
+### Actualizaciones
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oscarnovillo/oscarnovillo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mojang Studios continúa actualizando Minecraft con nuevas características, biomas y mecánicas de juego a través de actualizaciones regulares.
