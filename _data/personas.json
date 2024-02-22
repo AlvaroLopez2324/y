@@ -1,10 +1,10 @@
 [
-    { "nombre": "Alvaro", "edad": 19, "sexo": "M" },
+    { "nombre": "Alvaro", "edad": 19, "sexo": "F" },
     { "nombre": "Jose", "edad": 32, "sexo": "M" },
     { "nombre": "Fran", "edad": 27, "sexo": "M" },
-    { "nombre": "Calvo", "edad": 22, "sexo": "M" },
+    { "nombre": "Calvo", "edad": 22, "sexo": "F" },
     { "nombre": "Gabiloko", "edad": 17, "sexo": "M" },
-    { "nombre": "Gordito", "edad": 28, "sexo": "M" },
+    { "nombre": "Gordito", "edad": 28, "sexo": "F" },
     { "nombre": "Raul", "edad": 24, "sexo": "M" },
     { "nombre": "Julia", "edad": 41, "sexo": "F"}
 ]
